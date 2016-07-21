@@ -18,7 +18,7 @@ Follow these steps to get started using StrongLoop on OpenShift:
 2. Ensure you have the latest version of the client tools. As part of this process, you'll run the `rhc setup` command and choose a unique name (called a namespace) that becomes part of your public application URL.
 3. Create an application on OpenShift with the following command:
       
-        $ rhc create-app yourapp https://raw.github.com/tsiry95/openshift-cartridge-strongloop/master/metadata/manifest.yml
+        $ rhc create-app yourapp https://raw.github.com/tsiry95/openshift-strongloop-cartridge/master/metadata/manifest.yml
 
 4. Replace "yourapp" with your application name.  You'll see the message: 
 
