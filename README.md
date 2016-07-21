@@ -1,9 +1,7 @@
 
-# StrongLoop Buildpack for OpenShift 
-
 ![strongloop](https://raw.githubusercontent.com/tsiry95/openshift-strongloop-cartridge/master/strongloop-logo.png)
 ![openshift](https://raw.githubusercontent.com/tsiry95/openshift-strongloop-cartridge/master/openshift-logo.png)
-
+# StrongLoop Buildpack for OpenShift 
 StrongLoop provides:
  * LoopBack, an open-source Node.js framework that enables you to create dynamic end-to-end REST APIs with little or no coding. For more information on LoopBack, see http://loopback.io
  * StrongLoop Controller, a Node devops system.  See [StrongLoop Controller docs](http://docs.strongloop.com/display/SLC/StrongLoop+Controller) for more information.
