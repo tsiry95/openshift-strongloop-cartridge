@@ -80,8 +80,6 @@ Copy the Git URL from the output:
 
     $ git push --force openshift master
 
-That's it!  You can now check out your application at the app URL/domain you set for your OpenShift app.  
-If you have enabled StrongOps monitoring, log in to the StrongOps dashboard at http://strongops.strongloop.com and 
-you should be able to see your app.
+That's it!  You can now check out your application at the app URL/domain you set for your OpenShift app.
 
 
